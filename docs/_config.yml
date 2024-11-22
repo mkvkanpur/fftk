@@ -1,0 +1,15 @@
+name: FFTK - A versatile parallel FFT Library
+description: FFTK is an open-source free parallel Fast Fourier Transform library.
+timezone: Asia/Kolkata
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+version: 1.1
+github: https://github.com/anandogc/fftk
+highlightjs: //cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0
+katex: //cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1
